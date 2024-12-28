@@ -1,7 +1,7 @@
 name: Deploy site change to cpanel
 on:
   push:
-    branches: master
+    branches: main
 jobs:
   work_and_call_other:
     runs-on: ubuntu-latest
