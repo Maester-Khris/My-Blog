@@ -1,0 +1,16 @@
+2024-12-17 18:05:31.227 [info] Extension host with pid 133151 started
+2024-12-17 18:05:31.227 [info] Skipping acquiring lock for /home/nklinux/Documents/workspace/my_projects/nkcloudgo/~/Documents/User/workspaceStorage/e75bf14d818da9b0b4ffa7dde7b4555c.
+2024-12-17 18:05:31.246 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-12-17 18:05:31.330 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-12-17 18:05:31.333 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-12-17 18:05:31.536 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-17 18:05:31.612 [info] Eager extensions activated
+2024-12-17 18:05:31.660 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-17 18:05:31.664 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-17 18:05:34.238 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-12-17 18:05:36.620 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-12-17 18:05:36.632 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-12-17 18:05:36.657 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-12-17 18:05:36.740 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-17 18:05:55.094 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-17 18:05:55.119 [info] Extension host with pid 133151 exiting with code 0
